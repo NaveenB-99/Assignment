@@ -1,1 +1,1 @@
-This is sample read me file
+This repository contains the Assignment code 
